@@ -12,11 +12,11 @@ For this script to work, you must follow the following file naming format for fr
 
     MoleculeID_Theory_BasisSet_IsotopicMoleculeID_note.txt
 
-**Examples:**
-    1. Methane_CCSD_augccpVTZ_0nosub_atom2.txt
-    2. Methane_CCSD_augccpVTZ_12CH3D_atom2.txt
-    3. Sulfate40H2O_B3LYP_631Gdp_33SO4_atom1.txt
-    4. Thiosulfate34H2O_B3LYP_631Gdp_32S32S(16O)3_none.txt
+**Examples**:
+1. *Methane*_CCSD_augccpVTZ_0nosub_atom2.txt
+2. *Methane*_CCSD_augccpVTZ_12CH3D_atom2.txt
+3. *Sulfate40H2O*_B3LYP_631Gdp_33SO4_atom1.txt
+4. *Thiosulfate34H2O*_B3LYP_631Gdp_32S32S(16O)3_none.txt
 
 The unsubstituted molecule must have the IsotopicMoleculeID of "0nosub" in order for the RPFRs to be
 computed correctly.
