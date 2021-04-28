@@ -22,13 +22,9 @@ The unsubstituted molecule must have the IsotopicMoleculeID of "0nosub" in order
 computed correctly.
 
 Tips:
-Avoid special characters for basis set (and other) descriptions and use shorthand whenever possible.
-
-Also, only place files pertaining to a single optimization/frequency calculation in the data_files folder at one time for processing.
+Avoid special characters for basis set (and other) descriptions and use shorthand whenever possible. Also, only place files pertaining to a single optimization/frequency calculation in the data_files folder at one time for processing.
 
 Try it out:
-The script will work with the example output files involving methane isotopologues that are included. 
-
-The specific calculations for methane isotopologues were recently published in the following article:
+The script will work with the example output files involving methane isotopologues that are included. The specific calculations for methane isotopologues were recently published in the following article:
 
 Lloyd, Eldridge, and Stolper (2021) *Geochim. Cosmochim. Acta* (https://doi.org/10.1016/j.gca.2020.10.008).
