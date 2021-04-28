@@ -1,0 +1,104 @@
+ ---------------------------------------------------------------------
+ Center     Atomic                     Coordinates (Angstroms)
+ Number     Number                        X           Y           Z
+ ---------------------------------------------------------------------
+      1          6                    0.255319   -0.106383    0.000000
+      2          1                    0.617856   -1.131833   -0.000001
+      3          1                    0.617876    0.406335    0.888062
+      4          1                    0.617874    0.406336   -0.888062
+      5          1                   -0.832330   -0.106370    0.000001
+ ---------------------------------------------------------------------
+ Atom     1 has atomic number   6 and mass  12.00000
+ Atom     2 has atomic number   1 and mass   1.00783
+ Atom     3 has atomic number   1 and mass   1.00783
+ Atom     4 has atomic number   1 and mass   1.00783
+ Atom     5 has atomic number   1 and mass   2.01410
+ Stoichiometry    CH4
+ Framework group  C3V[C3(HC),3SGV(H)]
+ Deg. of freedom     3
+ Full point group                 C3V     NOp   6
+ Full mass-weighted force constant matrix:
+ Low frequencies ---  -21.7255  -18.6826  -18.6825   -0.0051   -0.0044   -0.0028
+ Low frequencies --- 1197.4737 1197.4737 1350.5498
+ Diagonal vibrational polarizability:
+        0.2116914       0.2116842       0.2116844
+ Harmonic frequencies (cm**-1), IR intensities (KM/Mole), Raman scattering
+ activities (A**4/AMU), depolarization ratios for plane and unpolarized
+ incident light, reduced masses (AMU), force constants (mDyne/A),
+ and normal coordinates:
+                      1                      2                      3
+                      E                      E                     A1
+ Frequencies --   1197.4737              1197.4737              1350.5498
+ Red. masses --      1.5091                 1.5091                 1.1651
+ Frc consts  --      1.2750                 1.2750                 1.2521
+ IR Inten    --      6.9697                 6.9697                10.7459
+  Atom  AN      X      Y      Z        X      Y      Z        X      Y      Z
+     1   6     0.00  -0.12  -0.08     0.00   0.08  -0.12    -0.12   0.00   0.00
+     2   1     0.45   0.06   0.23    -0.30  -0.04   0.35     0.53   0.22   0.00
+     3   1    -0.49   0.20  -0.04    -0.24  -0.31   0.22     0.53  -0.11  -0.19
+     4   1     0.03   0.36   0.21     0.54  -0.06   0.05     0.53  -0.11   0.19
+     5   1     0.00   0.42   0.28     0.00  -0.28   0.42    -0.11   0.00   0.00
+                      4                      5                      6
+                      E                      E                     A1
+ Frequencies --   1518.6781              1518.6782              2294.5507
+ Red. masses --      1.0483                 1.0483                 2.2210
+ Frc consts  --      1.4245                 1.4245                 6.8896
+ IR Inten    --      1.7475                 1.7475                 6.5925
+  Atom  AN      X      Y      Z        X      Y      Z        X      Y      Z
+     1   6     0.00   0.01  -0.04     0.00  -0.04  -0.01    -0.15   0.00   0.00
+     2   1     0.15   0.06   0.63    -0.37  -0.15   0.25    -0.04   0.09   0.00
+     3   1     0.25  -0.51   0.18     0.31   0.30  -0.32    -0.04  -0.04  -0.08
+     4   1    -0.39   0.17  -0.09     0.06   0.57   0.36    -0.04  -0.04   0.08
+     5   1     0.00   0.06  -0.14     0.00  -0.14  -0.06     0.97   0.00   0.00
+                      7                      8                      9
+                     A1                      E                      E
+ Frequencies --   3085.2685              3168.0983              3168.0983
+ Red. masses --      1.0392                 1.1014                 1.1014
+ Frc consts  --      5.8281                 6.5132                 6.5132
+ IR Inten    --      6.8792                22.5608                22.5608
+  Atom  AN      X      Y      Z        X      Y      Z        X      Y      Z
+     1   6     0.05   0.00   0.00     0.00   0.03  -0.09     0.00  -0.09  -0.03
+     2   1    -0.18   0.55   0.00     0.09  -0.26  -0.02    -0.26   0.72  -0.01
+     3   1    -0.18  -0.27  -0.47     0.18   0.26   0.42     0.21   0.28   0.51
+     4   1    -0.18  -0.27   0.47    -0.27  -0.38   0.65     0.05   0.05  -0.13
+     5   1    -0.04   0.00   0.00     0.00   0.00  -0.01     0.00  -0.01   0.00
+
+ -------------------
+ - Thermochemistry -
+ -------------------
+ Temperature   298.150 Kelvin.  Pressure   1.00000 Atm.
+ Molecular mass:    17.03758 amu.
+ Principal axes and moments of inertia in atomic units:
+                           1         2         3
+     Eigenvalues --    11.35348  15.35342  15.35342
+           X            1.00000   0.00000   0.00001
+           Y           -0.00001   0.04061   0.99918
+           Z            0.00000   0.99918  -0.04061
+ This molecule is a prolate symmetric top.
+ Rotational symmetry number  3.
+ Rotational temperatures (Kelvin)      7.62883     5.64134     5.64134
+ Rotational constants (GHZ):         158.95927   117.54650   117.54650
+ Zero-point vibrational energy     110647.8 (Joules/Mol)
+                                   26.44546 (Kcal/Mol)
+ Vibrational temperatures:   1722.90  1722.90  1943.14  2185.04  2185.04
+          (Kelvin)           3301.34  4439.01  4558.18  4558.18
+ 
+ Zero-point correction=                           0.042144 (Hartree/Particle)
+ Thermal correction to Energy=                    0.045028
+ Thermal correction to Enthalpy=                  0.045972
+ Thermal correction to Gibbs Free Energy=         0.023151
+                     E (Thermal)             CV                S
+                      KCal/Mol        Cal/Mol-Kelvin    Cal/Mol-Kelvin
+ Total                   28.256              6.644             48.032
+ Electronic               0.000              0.000              0.000
+ Translational            0.889              2.981             34.443
+ Rotational               0.889              2.981             13.461
+ Vibrational             26.478              0.683              0.128
+                       Q            Log10(Q)             Ln(Q)
+ Total Bot       0.224563D-10        -10.648662        -24.519451
+ Total V=0       0.544468D+09          8.735972         20.115319
+ Vib (Bot)       0.416175D-19        -19.380724        -44.625766
+ Vib (V=0)       0.100904D+01          0.003910          0.009004
+ Electronic      0.100000D+01          0.000000          0.000000
+ Translational   0.276418D+07          6.441567         14.832256
+ Rotational      0.195207D+03          2.290495          5.274059
